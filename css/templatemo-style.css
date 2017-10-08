@@ -139,7 +139,7 @@ p {
 }
 .navbar-brand em {
 	font-style: normal;
-	color: #f7c552;
+	color: #836E57;
 	font-size: 32px;
 }
 .header.active .navbar-brand {
@@ -161,11 +161,11 @@ p {
 }
 .navbar-inverse .navbar-toggle {
 	margin-top: 22px;
-    border-color: #f7c552;
-    background-color: #f7c552;
+    border-color: #836E57;
+    background-color: #836E57;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-	background-color: #f7c552;
+	background-color: #836E57;
 }
 bootstrap.min.css:5
 .navbar-toggle {
@@ -659,7 +659,7 @@ footer {
 footer .logo em {
 	font-style: normal;
 	font-size: 28px;
-	color: #f7c552;
+	color: #836E57;
 }
 footer .logo a {
 	display: inline-block;
@@ -683,7 +683,7 @@ footer .logo p {
 
 footer .logo span {
 	font-weight: 600;
-	color: #f7c552;
+	color: #836E57;
 }
 
 footer .location h4 {
@@ -767,7 +767,7 @@ footer .connect-us ul li a {
 	transition: all 0.3s;
 }
 footer .connect-us ul li a:hover {
-	background-color: #f7c552;
+	background-color: #836E57;
 }
 
 
