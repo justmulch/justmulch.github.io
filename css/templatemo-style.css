@@ -277,6 +277,7 @@ bootstrap.min.css:5
 	font-size: 17px;
 	font-weight: 500;
 	color: #fff;
+	background-color: #DAD4CD;
 	letter-spacing: 1px;
 }
 
@@ -334,7 +335,7 @@ bootstrap.min.css:5
 #portfolio .section-heading {
 	padding-top: 200px;
 	padding-bottom: 200px;
-	background-color: #33c1cf;
+	background-color: #DAD4CD;
 	height: 732px;
 	margin-left: -100vh;
 	padding-left: 100vh;
