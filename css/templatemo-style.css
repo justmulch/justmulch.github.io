@@ -48,7 +48,7 @@ p {
 
 .primary-blue-button a {
 	display: inline-block;
-	background-color: #836E57;
+	background-color: #DAD4CD;
 	font-size: 13px;
 	padding: 12px 18px;
 	color: #fff;
@@ -61,7 +61,7 @@ p {
 
 .pop-button h4 {
 	display: inline-block;
-	background-color: #836E57;
+	background-color: #DAD4CD;
 	font-size: 13px!important;
 	padding: 12px 18px;
 	color: #fff;
@@ -222,7 +222,7 @@ bootstrap.min.css:5
 .baner-content .text-content h2 {
 	font-size: 36px;
 	font-weight: 400;
-	color: #000000;
+	color: #fff;
 }
 
 .baner-content .text-content h2 span {
