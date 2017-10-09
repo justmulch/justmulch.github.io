@@ -763,12 +763,12 @@ footer .connect-us ul li a {
 	text-align: center;
 	background-color: #fff;
 	border-radius: 50%;
-	color: #373a3c;
+	color: #fff;
 	font-size: 15px;
 	transition: all 0.3s;
 }
 footer .connect-us ul li a:hover {
-	background-color: #836E57;
+	background-color: #fff;
 }
 
 
