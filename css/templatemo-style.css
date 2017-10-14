@@ -740,7 +740,6 @@ footer .contact-info ul li {
 footer .contact-info ul li em {
 	font-style: normal;
 	font-weight: 500;
-	color: #fff;
 }
 
 footer .connect-us h4 {
@@ -759,16 +758,15 @@ footer .connect-us ul li {
 }
 
 footer .connect-us ul li a {
-	display: inline-block;
-	width: 28px;
-	height: 28px;
-	line-height: 28px;
-	text-align: center;
-	background-color: #fff;
-	border-radius: 50%;
+	font-size: 13px;
 	color: #fff;
-	font-size: 15px;
-	transition: all 0.3s;
+	display: inline-block;
+	line-height: 24px;
+	letter-spacing: 0.5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: 300;
+	margin-bottom: -15px;
 }
 footer .connect-us ul li a:hover {
 	background-color: #fff;
