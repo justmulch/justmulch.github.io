@@ -290,6 +290,7 @@ bootstrap.min.css:5
 #about .service-item p {
 	color: #DAD4CD;
 	margin-top: 30px;
+	text-shadow: #000000 0.1em 0.1em 0.2em;
 }
 
 #about .service-item .primary-blue-button {
