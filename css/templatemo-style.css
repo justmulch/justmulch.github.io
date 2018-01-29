@@ -351,7 +351,7 @@ bootstrap.min.css:5
 	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #836E57;
+	color: #fff;
 	letter-spacing: 1px;
 }
 
@@ -363,13 +363,13 @@ bootstrap.min.css:5
 }
 
 #portfolio .section-heading p {
-	color: #836E57;
+	color: #fff;
 	padding-right: 70px;
 }
 
 
 #testimonial {
-	background-color: #f7c552;
+	background-color: #fff;
 	text-align: center;
 	padding: 100px 0px;
 }
